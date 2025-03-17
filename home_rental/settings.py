@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'property_management',
     'django_filters',
     'rest_framework',
+    'leases',
+    'payments',
+    'maintenance',
 ]
 
 MIDDLEWARE = [
